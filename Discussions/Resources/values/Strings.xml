@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">Chit-Chat!</string>
+  <string name="DiscussionList">Previous Discussions</string>
+  <string name="NewDiscussion">New Discussion</string>
+  <string name="tab1text">New</string>
+  <string name="tab2text">List</string>
+  <string name="NDName">Topic:</string>
+  <string name="NDTime">Single speech duration:</string>
+  <string name="NDMin">Min</string>
+  <string name="NDSec">Sec</string>
+  <string name="NDCreate">Create Discussion</string>
+  <string name="NPAdd">New Participant</string>
+  <string name="NPDName">Participant\'s Name:</string>
+  <string name="PLEmptyAlertT">Alert</string>
+  <string name="PLEmptyAlertM">Participant list empty!\nPlease, add participants to proceed</string>
+  <string name="OK">OK</string>
+  <string name="Cancel">Cancel</string>
+  <string name="Unnamed">Unnamed</string>
+  <string name="Confirm">Confirm</string>
+  <string name="PLFor">Participant list for </string>
+  <string name="IPCurrent">Current speaker:</string>
+  <string name="IPLikes">Likes</string>
+  <string name="IPDislikes">Dislikes</string>
+  <string name="IPNext">Next Speaker</string>
+  <string name="IPMis">Add Mistake</string>
+  <string name="Start">Start</string>
+  <string name="Stop">Stop</string>
+  <string name="IPEndAlertT">Last speaker!</string>
+  <string name="IPEndAlertM">Last speaker has made their speech, you will be taken to the result screen now</string>
+  <string name="DRFor">Discussion results for</string>
+
+  <string-array name="lvpContextMenu">
+    <item>Edit</item>
+    <item>Remove</item>
+  </string-array>
+</resources>
